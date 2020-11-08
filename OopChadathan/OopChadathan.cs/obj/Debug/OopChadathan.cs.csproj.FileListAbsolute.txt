@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\วิชา oop\งาน\OopChadathan\OopChadathan.cs\obj\Debug\OopChadathan.cs.csprojAssemblyReference.cache
+C:\Users\User\Desktop\วิชา oop\งาน\OopChadathan\OopChadathan.cs\obj\Debug\OopChadathan.cs.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\วิชา oop\งาน\OopChadathan\OopChadathan.cs\bin\Debug\OopChadathan.cs.exe.config
+C:\Users\User\Desktop\วิชา oop\งาน\OopChadathan\OopChadathan.cs\bin\Debug\OopChadathan.cs.exe
+C:\Users\User\Desktop\วิชา oop\งาน\OopChadathan\OopChadathan.cs\bin\Debug\OopChadathan.cs.pdb
+C:\Users\User\Desktop\วิชา oop\งาน\OopChadathan\OopChadathan.cs\obj\Debug\OopChadathan.cs.exe
+C:\Users\User\Desktop\วิชา oop\งาน\OopChadathan\OopChadathan.cs\obj\Debug\OopChadathan.cs.pdb
